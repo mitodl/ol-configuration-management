@@ -813,7 +813,7 @@ python-versions = ">=3.5"
 
 [[package]]
 name = "pyinfra"
-version = "1.3.10"
+version = "1.3.11"
 description = "pyinfra automates/provisions/manages/deploys infrastructure."
 category = "main"
 optional = false
@@ -1225,7 +1225,7 @@ testing = ["coverage (>=5.0.3)", "zope.event", "zope.testing"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "6b4ad758097c9bb26419701b51aa6d0c116458b6aff5ce06665358bb3b8c5116"
+content-hash = "b4d94754a9ed38fe1158fb868939af8c522be34b5efe4c2215ea967d9220cabe"
 
 [metadata.files]
 appdirs = [
@@ -1711,8 +1711,8 @@ pygments = [
     {file = "Pygments-2.8.1.tar.gz", hash = "sha256:2656e1a6edcdabf4275f9a3640db59fd5de107d88e8663c5d4e9a0fa62f77f94"},
 ]
 pyinfra = [
-    {file = "pyinfra-1.3.10-py2.py3-none-any.whl", hash = "sha256:f76fc3c03f12094ad725a724a7238d7c60878107ad8c49054eb9aad3b2b4e9da"},
-    {file = "pyinfra-1.3.10.tar.gz", hash = "sha256:ef68cda9ae23d82b04666e3305c4ef1feb8ec23ac41db7cfd36b2488d434dd59"},
+    {file = "pyinfra-1.3.11-py2.py3-none-any.whl", hash = "sha256:56d39bcb331617be84e5d60db2331975d6b01283f25768fd00f3997620f86d43"},
+    {file = "pyinfra-1.3.11.tar.gz", hash = "sha256:8031f376a85a291672d02450f7223bc5110636b8e48d1223fb1204c72cc14b96"},
 ]
 pynacl = [
     {file = "PyNaCl-1.4.0-cp27-cp27m-macosx_10_10_x86_64.whl", hash = "sha256:ea6841bc3a76fa4942ce00f3bda7d436fda21e2d91602b9e21b7ca9ecab8f3ff"},
