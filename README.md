@@ -1,3 +1,9 @@
+# *NOTE*
+This project has been merged into the repository at mitodl/ol-infrastructure to simplify
+the work of developing cross-cutting changes between configuration management and
+provisioning. It is no longer being actively developed and has been archived.
+
+# Overview
 In order to streamline the management of infrastructure required to support the services
 run by MIT Open Learning we have implemented our configuration management logic using
 PyInfra. This has the benefit of being pure Python, allowing us to take advantage of the
